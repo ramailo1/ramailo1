@@ -20,8 +20,8 @@
 │  RAMAILO1 // SYSTEM PROFILE                            │
 │                                                        │
 │  STATUS   🟢 ACTIVE & BUILDING                         │
-│  DOMAIN   AI INFRASTRUCTURE · FULL STACK · AGENTS      │
-│  MODE     PRODUCT ARCHITECTURE & ENGINEERING           │
+│  DOMAIN   AI · PRODUCT ENGINEERING · DEV INFRASTRUCTURE│
+│  MODE     SYSTEMS ARCHITECTURE & PRODUCT ENGINEERING   │
 │  CURRENT  SpicySwipe · DriftGuard · Onward90           │
 ╰────────────────────────────────────────────────────────╯
 ```
@@ -36,12 +36,12 @@
 
 ```typescript
 const ramailo1 = {
-  role: "Full-Stack Engineer · Product Architect",
+  role: "Product Engineer · AI & Systems Architect",
   mindset: ["Understand Problem", "Design Architecture", "Build Clean MVP", "Measure Telemetry", "Ship & Iterate"],
   focus: [
-    "Full-Stack Web Ecosystems (Next.js / TypeScript / React / Prisma / PostgreSQL)",
-    "Applied AI, LLM Tooling & MCP Governance (Gemini / Claude / OpenAI / State Machines)",
-    "Autonomous Agent Infrastructure & Browser Automation"
+    "Product Engineering & Full-Stack Systems (Next.js / TypeScript / React / Prisma / PostgreSQL)",
+    "Applied AI & Agent Tooling (Gemini / Claude / OpenAI / Local Ollama / MCP Protocol)",
+    "Developer Infrastructure & Browser Automation"
   ],
   philosophy: "Don't just write code — engineer products that solve real problems and feel great to use."
 };
@@ -66,16 +66,22 @@ const ramailo1 = {
 ### 🔥 [**SpicySwipe**](https://github.com/ramailo1/SpicySwipe) — AI Browser Extension
 > **AI-powered browser extension combining multi-LLM generation, contextual personalization, automated workflows & conversation analytics.**
 
+<div align="center">
+  <br/>
+  <a href="https://ramailo1.github.io/SpicySwipe/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ramailo1/SpicySwipe/main/docs/banner.png" width="100%" alt="SpicySwipe AI Extension Banner & Interface Demo" style="border-radius: 8px;" />
+  </a>
+  <br/>
+</div>
+
 ```ascii
- ┌─────────────────┐       ┌──────────────────────┐       ┌──────────────────────┐       ┌─────────────────┐
- │ Profile Context │  ──►  │ Multi-LLM Engine     │  ──►  │ Conversational Tone  │  ──►  │ Automated Flow  │
- │ & Bio Extraction│       │ GPT-4 / Gemini/Claude│       │ & Persona Adaptation │       │ & Live Telemetry│
- └─────────────────┘       └──────────────────────┘       └──────────────────────┘       └─────────────────┘
+ Profile Context ──► Multi-LLM Engine ──► Tone Adaptation ──► Smart Automation ──► Live Telemetry
+ (Bio Extraction)     (Gemini/Claude/GPT)  (Adaptive Personas)   (One-Click / Auto)   (Match Analytics)
 ```
 
 * **The Problem:** Repetitive manual matching and bland conversational outreach lack personalization, contextual awareness, and engagement analytics.
-* **The Solution:** A Manifest V3 browser extension integrating Claude, Gemini, and GPT to analyze profile bios, adapt conversational tones, and execute automated workflows.
-* **Stack:** `JavaScript` • `Manifest V3` • `OpenAI API` • `Google Gemini` • `Claude API` • `Analytics`
+* **The Solution:** A Manifest V3 browser extension integrating Claude, Gemini, OpenAI, and local Ollama to analyze profile bios, adapt conversational tones, and execute automated workflows with enterprise-grade XSS security.
+* **Stack:** `JavaScript` • `Manifest V3` • `Ollama (Local)` • `OpenAI API` • `Google Gemini` • `Claude API` • `Analytics`
 * **Links:** [**GitHub Repository →**](https://github.com/ramailo1/SpicySwipe) &nbsp;|&nbsp; [**Live Demo & Docs →**](https://ramailo1.github.io/SpicySwipe/)
 
 <br/>
@@ -221,14 +227,14 @@ An end-to-end architecture pattern I use when engineering AI-integrated full-sta
 
 <div align="center">
 
-  <!-- Symmetrical Color-Matched Stats & Language Cards -->
+  <!-- Compact Engineering Telemetry & Language Cards -->
   <p align="center">
     <a href="https://github.com/ramailo1">
-      <img src="https://github-stats-extended.vercel.app/api?username=ramailo1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0&bg_color=0b0f19" height="195" alt="Ramailo1 GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=ramailo1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars,followers&title_color=38bdf8&icon_color=818cf8&text_color=e2e8f0&bg_color=0b0f19" height="165" alt="Ramailo1 GitHub Stats" />
     </a>
     &nbsp;&nbsp;
     <a href="https://github.com/ramailo1">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ramailo1&layout=compact&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0b0f19" height="195" alt="Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ramailo1&layout=compact&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0b0f19" height="165" alt="Top Languages" />
     </a>
   </p>
 
