@@ -121,10 +121,18 @@ const ramailo1 = {
 ### 🚀 [**Onward90**](https://github.com/ramailo1/Onward90) — Employee Onboarding SaaS
 > **Day-by-day employee onboarding companion to accelerate ramp-up time and provide HR full visibility.**
 
+<div align="center">
+  <br/>
+  <a href="https://onward90.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ramailo1/Onward90/main/public/screenshots/home.png" width="100%" alt="Onward90 SaaS Platform Preview" style="border-radius: 8px;" />
+  </a>
+  <br/>
+</div>
+
 * **The Problem:** New hire ramp-up is fragmented, leading to lost productivity and lack of structured visibility for managers and HR teams.
 * **The Solution:** A 90-day interactive onboarding companion with scheduled milestones, manager checkpoints, and full organizational reporting.
 * **Stack:** `Next.js` • `TypeScript` • `Prisma ORM` • `Auth.js` • `PostgreSQL` • `TailwindCSS`
-* **Links:** [**GitHub Repository →**](https://github.com/ramailo1/Onward90) &nbsp;|&nbsp; [**Live SaaS App →**](https://onward90.vercel.app/)
+* **Links:** [**GitHub Repository →**](https://github.com/ramailo1/Onward90) &nbsp;|&nbsp; [**Live SaaS App →**](https://onward90.netlify.app/)
 
 <br/>
 
