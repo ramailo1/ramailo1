@@ -3,7 +3,6 @@ name: Generate Contribution Snake
 on:
 schedule:
 - cron: "0 0 * * *"
-
 workflow_dispatch:
 
 jobs:
@@ -15,7 +14,7 @@ permissions:
   contents: write
 
 steps:
-  - name: Generate contribution snake
+  - name: Generate snake animation
     uses: Platane/snk@v3
     with:
       github_user_name: ramailo1
@@ -23,7 +22,7 @@ steps:
         dist/github-contribution-grid-snake.svg
         dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-  - name: Push generated files
+  - name: Deploy snake animation
     uses: crazy-max/ghaction-github-pages@v4
     with:
       build_dir: dist
