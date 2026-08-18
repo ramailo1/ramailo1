@@ -165,25 +165,26 @@ Modular tools and dashboards built to accelerate developer workflow, automate ro
 
 ---
 
-## 📊 GitHub Analytics & Live Dashboard
+## 📊 Live GitHub Analytics & Activity Dashboard
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=ramailo1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="Ramailo1 GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramailo1&theme=tokyonight&hide_border=true" width="100%" alt="Ramailo1 Contribution Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramailo1&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <!-- Real-time Stats & Streak Cards -->
+  <p align="center">
+    <a href="https://github.com/ramailo1">
+      <img src="https://github-stats-extended.vercel.app/api?username=ramailo1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ramailo1 GitHub Stats" />
+    </a>
+    <a href="https://github.com/ramailo1">
+      <img src="https://streak-stats.demolab.com?user=ramailo1&theme=tokyonight&hide_border=true" alt="Ramailo1 Contribution Streak" />
+    </a>
+  </p>
+
+  <!-- Top Languages Card -->
+  <p align="center">
+    <a href="https://github.com/ramailo1">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ramailo1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </a>
+  </p>
 
 </div>
 
@@ -194,14 +195,16 @@ Modular tools and dashboards built to accelerate developer workflow, automate ro
 ## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramailo1&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <a href="https://github.com/ramailo1">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramailo1&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  </a>
 </div>
 
 <br/>
 
 ---
 
-## 🐍 Contribution Grid Snake
+## 🐍 Contribution Grid Snake Animation
 
 <div align="center">
   <picture>
