@@ -169,20 +169,14 @@ Modular tools and dashboards built to accelerate developer workflow, automate ro
 
 <div align="center">
 
-  <!-- Real-time Stats & Streak Cards -->
+  <!-- Side-by-Side Symmetrical Stats & Top Languages -->
   <p align="center">
     <a href="https://github.com/ramailo1">
-      <img src="https://github-stats-extended.vercel.app/api?username=ramailo1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ramailo1 GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=ramailo1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="195" alt="Ramailo1 GitHub Stats" />
     </a>
+    &nbsp;&nbsp;
     <a href="https://github.com/ramailo1">
-      <img src="https://streak-stats.demolab.com?user=ramailo1&theme=tokyonight&hide_border=true" alt="Ramailo1 Contribution Streak" />
-    </a>
-  </p>
-
-  <!-- Top Languages Card -->
-  <p align="center">
-    <a href="https://github.com/ramailo1">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ramailo1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ramailo1&layout=compact&theme=tokyonight&hide_border=true" height="195" alt="Top Languages" />
     </a>
   </p>
 
