@@ -69,7 +69,7 @@ const ramailo1 = {
 <div align="center">
   <br/>
   <a href="https://ramailo1.github.io/SpicySwipe/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ramailo1/SpicySwipe/main/docs/banner.png" width="100%" alt="SpicySwipe AI Extension Banner & Interface Demo" style="border-radius: 8px;" />
+    <img src="./assets/spicyswipe-demo.gif" width="100%" alt="SpicySwipe AI Browser Extension Animated Showcase" style="border-radius: 8px;" />
   </a>
   <br/>
 </div>
@@ -88,6 +88,14 @@ const ramailo1 = {
 
 ### 🛡️ [**mcp-server-driftguard**](https://github.com/ramailo1/mcp-server-driftguard) — AI Agent Governance
 > **A Firewall for Intelligence — MCP server enforcing finite state machines, scope verification & tamper-proof audit trails.**
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/ramailo1/mcp-server-driftguard" target="_blank">
+    <img src="./assets/driftguard-demo.gif" width="100%" alt="DriftGuard MCP Governance Animated Simulation" style="border-radius: 8px;" />
+  </a>
+  <br/>
+</div>
 
 ```ascii
  ┌────────────────────────────────────────────────────────┐
@@ -124,7 +132,7 @@ const ramailo1 = {
 <div align="center">
   <br/>
   <a href="https://onward90.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ramailo1/Onward90/main/public/screenshots/home.png" width="100%" alt="Onward90 SaaS Platform Preview" style="border-radius: 8px;" />
+    <img src="./assets/onward90-demo.gif" width="100%" alt="Onward90 Employee Onboarding SaaS Animated Demo" style="border-radius: 8px;" />
   </a>
   <br/>
 </div>
