@@ -1,12 +1,12 @@
 <!-- Animated Capsule Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,30,32,34,36&height=220&section=header&text=Hi%20there,%20I'm%20ramailo1%20👋&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=220&section=header&text=Hi%20there,%20I'm%20ramailo1%20👋&fontSize=38&fontColor=58a6ff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20Problem%20Solver&descSize=16&descAlignY=62&descColor=8b949e&animation=twinkling" width="100%" alt="Header Banner" />
 </div>
 
 <!-- Animated Typing Subtitle -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+Builder+%7C+Problem+Solver;Turning+ideas+into+real+products+%F0%9F%9A%80;Building+clean%2C+modern+and+useful+software+%E2%9C%A8;Always+learning.+Always+building.+Always+shipping." alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=750&lines=Turning+ideas+into+real+products+%F0%9F%9A%80;Building+clean%2C+modern+and+useful+software+%E2%9C%A8;Always+learning.+Always+building.+Always+shipping." alt="Typing SVG Animation" />
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 
 <!-- Profile Badges & Stats -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramailo1&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ramailo1&style=for-the-badge&color=0969DA&label=PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;&nbsp;
   <a href="https://github.com/ramailo1?tab=followers"><img src="https://img.shields.io/github/followers/ramailo1?style=for-the-badge&logo=github&color=21262d&labelColor=161b22" alt="GitHub Followers" /></a>
   &nbsp;&nbsp;
@@ -242,5 +242,5 @@ Modular tools and dashboards built to accelerate developer workflow, automate ro
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Developer Quote" />
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,30,32,34,36&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
