@@ -1,18 +1,18 @@
 <!-- 🌌 Hero Header: Aurora Cyan & Indigo Waveform -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,40:1e1b4b,70:312e81,100:06b6d4&height=240&section=header&text=ramailo1&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Architect%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20AI%20Explorer&descSize=18&descAlignY=58&descColor=38bdf8&animation=twinkling" width="100%" alt="Ramailo1 Aurora Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,40:1e1b4b,70:312e81,100:06b6d4&height=240&section=header&text=ramailo1&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Building%20intelligent%20products%20from%20idea%20%E2%86%92%20architecture%20%E2%86%92%20reality&descSize=17&descAlignY=58&descColor=38bdf8&animation=twinkling" width="100%" alt="Ramailo1 Aurora Banner" />
 </div>
 
-<!-- ⚡ Dynamic Typing Subtitle -->
+<!-- ⚡ Dynamic Storytelling Typing Subtitle -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1200&color=6366F1&center=true&vCenter=true&width=820&lines=Building+Scalable+Full-Stack+Platforms+%E2%9C%A8;Engineering+AI-Powered+Digital+Products+%F0%9F%A4%96;Crafting+Sensational+UI%2FUX+Experiences+%F0%9F%8E%A8;Always+Learning.+Always+Building.+Always+Shipping.+%F0%9F%9A%80" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=800&lines=Designing+systems+that+scale+%E2%9A%A1;Building+AI-powered+products+%F0%9F%A4%96;Engineering+interfaces+people+remember+%E2%9C%A8;Turning+ideas+into+shipped+products+%F0%9F%9A%80" alt="Typing SVG Animation" />
   </a>
 </div>
 
 <br/>
 
-<!-- 📊 Live Profile Badges -->
+<!-- 📊 Live Badges -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ramailo1&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;&nbsp;
@@ -25,37 +25,28 @@
 
 ---
 
-## 🧠 Architect Identity & Philosophy
+## 🧠 Who I Am & How I Build
 
 ```typescript
-interface Engineer {
-  username: string;
-  role: string;
-  mindset: string[];
-  specialties: string[];
-  philosophy: string;
-  mission: string;
-}
-
-const ramailo1: Engineer = {
-  username: "ramailo1",
-  role: "Full-Stack Software Engineer & Product Architect",
-  mindset: ["Architect", "Build", "Optimize", "Scale", "Ship"],
-  specialties: [
-    "High-Scale Web Ecosystems",
-    "Applied AI & Computer Vision",
-    "Cloud Microservices & Distributed APIs",
-    "Intuitive Design Systems & Motion UI"
+const ramailo1 = {
+  role: "Full-Stack Engineer & Product Architect",
+  mindset: ["Understand the Problem", "Design the System", "Build the MVP", "Measure Usage", "Iterate & Ship"],
+  focus: [
+    "Web Application Architecture (Next.js / Node / TypeScript / Postgres)",
+    "Applied AI & Computer Vision Pipelines (Python / OpenCV / Agentic Workflows)",
+    "Developer Tooling & Automation Infrastructure"
   ],
-  philosophy: "Don't just write code — engineer digital experiences that people love.",
-  mission: "Turning ambitious concepts into practical, market-ready digital products 🚀"
+  philosophy: "Don't just write code — build things that people genuinely love to use."
 };
 ```
 
 <div align="center">
 
-> *"I enjoy taking an idea from **zero → architecture → interface → working product**.*  
-> *I don't want to simply make things that work — **I build things that feel extraordinary to use.**"*
+```ascii
+ IDEA ──► Understand Problem ──► Design Architecture ──► Build Smallest Useful Version ──► Measure & Scale ──► Ship 🚀
+```
+
+> *"I care about the intersection of **clean engineering architecture** and **unforgettable product experience**."*
 
 </div>
 
@@ -63,36 +54,50 @@ const ramailo1: Engineer = {
 
 ---
 
-## ⚡ Engineering Capabilities Matrix
+## 🚧 Currently Building (Featured Projects)
+
+### 🔭 Hero Project: **SiteLens**
+> **Computer vision infrastructure for construction intelligence.**
+
+```ascii
+ ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐
+ │ Field Reality   │  ──►  │ AI Computer     │  ──►  │ BIM / Blueprint │  ──►  │ Anomaly Report  │
+ │ Image Capture   │       │ Vision Pipeline │       │ Comparison      │       │ & Insights ⚠️   │
+ └─────────────────┘       └─────────────────┘       └─────────────────┘       └─────────────────┘
+```
+
+* **The Problem:** Construction teams frequently struggle to verify whether physical on-site installations match blueprint specifications before costly errors occur.
+* **The Solution:** SiteLens processes site captures and compares physical reality against BIM/CAD references to detect discrepancies automatically.
+* **Core Engineering:** Python CV pipeline, image processing & spatial alignment, cloud object storage, asynchronous worker queues, React interface.
+* **Status:** `🟢 Active Research & Development` &nbsp;•&nbsp; [**Explore Repository →**](https://github.com/ramailo1)
+
+<br/>
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 💻 Full-Stack & Systems Architecture
-- 🚀 **Full-Stack Applications:** Scalable, end-to-end web apps with Next.js & React
-- 🔌 **REST & GraphQL Services:** High-throughput backend APIs & microservices
-- 🗄️ **Database Architecture:** Relational (PostgreSQL/MySQL) & NoSQL (MongoDB/Redis)
-- 🔐 **Security & Auth:** OAuth2, JWT, Session Management & Enterprise RBAC
-- 🎨 **Adaptive Interfaces:** Mobile-first, pixel-perfect, accessible design systems
-- 📊 **Modern Dashboards:** Real-time data visualization & telemetry analytics
-- 🧩 **Developer Tools:** Productivity CLIs, browser extensions & automation scripts
-- ☁️ **Cloud Deployment:** Containerized Docker workflows & serverless edge deployments
+### ⚡ DevSuite
+**Developer productivity & automation platform.**
+
+* **Focus:** Modular developer tools eliminating repetitive boilerplate, task execution pipelines, and real-time telemetry.
+* **Stack:** `TypeScript` • `Next.js` • `Node.js` • `PostgreSQL` • `TailwindCSS`
+* **Status:** `🟢 Live Prototype` &nbsp;•&nbsp; [**View Project →**](https://github.com/ramailo1)
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🧠 Applied AI & Frontier Tech
-- 🤖 **AI Agents & LLMs:** Agentic orchestration, RAG pipelines & prompt engineering
-- 👁️ **Computer Vision:** Visual recognition, spatial inspection & field capture
-- ⚡ **Automated Workflows:** Intelligent data pipelines & autonomous bots
-- 📈 **Telemetry & Analytics:** Performance profiling & event-driven architectures
-- 🛠️ **DevOps & CI/CD:** Automated GitHub Actions & reproducible staging builds
-- ✨ **Interactive Motion:** Smooth 60fps micro-interactions & WebGL/3D interfaces
-- 📱 **Offline-First Resilience:** Local-first syncing architectures & PWA tech
-- 💡 **Product Engineering:** Rapid prototyping from MVP to enterprise scale
+### 🧠 Practical AI Systems
+**Autonomous agentic workflows & local-first AI tools.**
+
+* **Focus:** RAG pipelines, vision-language integrations, intelligent CLI assistants, and privacy-first local models.
+* **Stack:** `Python` • `FastAPI` • `Vector DBs` • `LangChain` • `Redis`
+* **Status:** `🧪 Active Exploration` &nbsp;•&nbsp; [**View Project →**](https://github.com/ramailo1)
 
 </td>
+
 </tr>
 </table>
 
@@ -100,28 +105,63 @@ const ramailo1: Engineer = {
 
 ---
 
-## 🛠️ Arsenal & Technology Stack
+## 🧬 System Architecture Pattern
+
+A typical end-to-end architecture pattern I use when building scalable web applications:
+
+```ascii
+                     ┌──────────────────────────────────────────────┐
+                     │          Responsive Client Interface         │
+                     │          Next.js · React · TypeScript        │
+                     └──────────────────────┬───────────────────────┘
+                                            │  (HTTPS / WebSocket)
+                                            ▼
+                     ┌──────────────────────────────────────────────┐
+                     │             API Gateway & Routing            │
+                     │       Authentication · Rate Limiting · RBAC  │
+                     └──────────────────────┬───────────────────────┘
+                                            │
+                    ┌───────────────────────┼───────────────────────┐
+                    ▼                       ▼                       ▼
+       ┌────────────────────────┐  ┌─────────────────┐  ┌───────────────────────┐
+       │   AI & Vision Engine   │  │ Core REST APIs  │  │ Background Workers    │
+       │   Python · OpenCV · LLM│  │ Node.js/Express │  │ Queues & Cron Tasks   │
+       └────────────┬───────────┘  └────────┬────────┘  └───────────┬───────────┘
+                    │                       │                       │
+                    └───────────────────────┼───────────────────────┘
+                                            ▼
+                     ┌──────────────────────────────────────────────┐
+                     │              Data & Storage Layer            │
+                     │    PostgreSQL · Redis Cache · Object Storage │
+                     └──────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
+## 🛠️ Technology Arsenal
 
 <div align="center">
 
-### Core Languages
+### ⚡ Primary Stack (Daily Drivers)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,php,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,postgres,git" alt="Primary Stack" />
 </p>
 
-### Frontend & UI Ecosystem
+### 🧠 AI, Vision & Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite,bootstrap" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,redis,mongodb" alt="AI & Data" />
 </p>
 
-### Backend, Cloud & Databases
+### ☁️ Infrastructure & Tooling
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb,mysql,redis" alt="Backend & Databases" />
+  <img src="https://skillicons.dev/icons?i=docker,github,linux,vscode,figma,postman,vercel" alt="Infra & Tools" />
 </p>
 
-### Tooling, DevOps & Design
+### 🧰 Also Familiar With
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,vercel" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=java,cs,php,vue,mysql,bootstrap" alt="Familiar Technologies" />
 </p>
 
 </div>
@@ -130,49 +170,23 @@ const ramailo1: Engineer = {
 
 ---
 
-## 🚀 Featured Project Showcases
+## 🧪 Currently Exploring
 
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔭 SiteLens
-**Construction intelligence powered by reality.**
-
-An enterprise computer vision platform comparing **what was actually built** against BIM/CAD blueprints using spatial capture and visual anomaly detection.
-
-- 🛠️ **Tech Stack:** Computer Vision, Python, React, Cloud Storage, REST APIs
-- 🌐 **Status:** Active Research & Development
-- 🔗 **Exploration:** [Explore Repository & Architecture →](https://github.com/ramailo1)
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚡ DevSuite / Smart SaaS
-**High-performance developer automation platform.**
-
-A modular productivity suite designed to eliminate boilerplate, orchestrate micro-tasks, and generate real-time performance telemetry.
-
-- 🛠️ **Tech Stack:** TypeScript, Next.js, Node.js, TailwindCSS, PostgreSQL
-- 🌐 **Status:** Production Prototype
-- 🔗 **Exploration:** [Explore Repository & Architecture →](https://github.com/ramailo1)
-
-</td>
-
-</tr>
-</table>
-
-</div>
+```ascii
+┌────────────────────────────────────────────────────────┐
+│ 🧠 Autonomous AI Agents & Tool-Calling     ████████░░  │
+│ 👁️ Vision-Language Models & Spatial AI     ████████░░  │
+│ ⚡ Event-Driven Microservices & Queues      ███████░░░  │
+│ 🌐 WebGPU & Real-time Canvas 3D            ██████░░░░  │
+│ 📱 Local-First Resilient Sync Architectures██████░░░░  │
+└────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
 ---
 
-## 📊 Live Telemetry & GitHub Analytics
+## 📊 GitHub Telemetry
 
 <div align="center">
 
@@ -193,19 +207,7 @@ A modular productivity suite designed to eliminate boilerplate, orchestrate micr
 
 ---
 
-## 📈 Activity Waveform
-
-<div align="center">
-  <a href="https://github.com/ramailo1">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramailo1&theme=tokyo-night&hide_border=true&area=true&color=38bdf8" width="100%" alt="Activity Graph" />
-  </a>
-</div>
-
-<br/>
-
----
-
-## 🐍 Contribution Grid Snake Animation
+## 🐍 Contribution Grid Snake
 
 <div align="center">
   <picture>
@@ -219,7 +221,12 @@ A modular productivity suite designed to eliminate boilerplate, orchestrate micr
 
 ---
 
-## 📬 Connect & Collaborate
+## 🤝 Let's Build Something Ambitious
+
+Have an interesting product idea, technical challenge, or looking to collaborate?
+
+* 🚀 **Building:** AI-powered products, developer infrastructure, computer vision systems, or scalable web platforms.
+* 💬 **Reach Out:**
 
 <div align="center">
 
@@ -231,7 +238,7 @@ A modular productivity suite designed to eliminate boilerplate, orchestrate micr
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:contact.ramailo1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
@@ -245,9 +252,11 @@ A modular productivity suite designed to eliminate boilerplate, orchestrate micr
 
 ---
 
-<!-- 🌌 Animated Footer: Aurora Cyan & Indigo Waveform -->
+<!-- 🌌 Personal Motto Signature & Aurora Footer Wave -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Developer Quote" />
-  <br/><br/>
+  <br/>
+  <h3><i>"Think deeply. Build boldly. Ship relentlessly."</i></h3>
+  <p><b>— ramailo1</b></p>
+  <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,40:1e1b4b,70:312e81,100:06b6d4&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
