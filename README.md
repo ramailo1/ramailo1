@@ -1,14 +1,27 @@
-# 👋 Hey, I'm Ramailo1
-
+<!-- Animated Capsule Header Banner -->
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%7C+Builder+%7C+Problem+Solver;Turning+ideas+into+real+products;Building+clean%2C+modern+and+useful+software;Always+learning.+Always+building.+Always+shipping." alt="Typing SVG" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ramailo1&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,30,32,34,36&height=220&section=header&text=Hi%20there,%20I'm%20ramailo1%20👋&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 </div>
+
+<!-- Animated Typing Subtitle -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+Builder+%7C+Problem+Solver;Turning+ideas+into+real+products+%F0%9F%9A%80;Building+clean%2C+modern+and+useful+software+%E2%9C%A8;Always+learning.+Always+building.+Always+shipping." alt="Typing SVG Animation" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Profile Badges & Stats -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ramailo1&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ramailo1?tab=followers"><img src="https://img.shields.io/github/followers/ramailo1?style=for-the-badge&logo=github&color=21262d&labelColor=161b22" alt="GitHub Followers" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ramailo1"><img src="https://img.shields.io/github/stars/ramailo1?style=for-the-badge&logo=github&color=21262d&labelColor=161b22" alt="GitHub Stars" /></a>
+</div>
+
+<br/>
 
 ---
 
@@ -17,41 +30,29 @@
 ```javascript
 const developer = {
     username: "ramailo1",
-
-    role: "Full-Stack Developer",
-
-    mindset: [
-        "Build",
-        "Learn",
-        "Experiment",
-        "Improve",
-        "Ship"
-    ],
-
+    role: "Full-Stack Developer & Product Builder",
+    mindset: ["Build", "Learn", "Experiment", "Improve", "Ship"],
     interests: [
-        "Web Development",
+        "Full-Stack Web Development",
         "AI & Automation",
         "Computer Vision",
         "Developer Tools",
         "SaaS Products",
-        "Creative UI/UX"
+        "Creative UI/UX & Motion Design"
     ],
-
-    philosophy:
-        "Don't just write code. Build something people can use.",
-
-    currentlyBuilding:
-        "Turning ambitious ideas into practical digital products 🚀"
+    philosophy: "Don't just write code. Build something people can use.",
+    currentlyBuilding: "Turning ambitious ideas into practical digital products 🚀"
 };
 ```
 
-I enjoy taking an idea from **zero → architecture → interface → working product**.
+<div align="center">
 
-My interests sit at the intersection of **software engineering, AI, automation, product design, and modern web experiences**.
+> *"I enjoy taking an idea from **zero → architecture → interface → working product**.*  
+> *I don't want to simply make things that work — **I want to build things that feel great to use.**"*
 
-I don't want to simply make things that work.
+</div>
 
-> **I want to build things that feel great to use.**
+<br/>
 
 ---
 
@@ -59,136 +60,99 @@ I don't want to simply make things that work.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 Development
-
-* Full-Stack Web Applications
-* REST APIs
-* Database Architecture
-* Authentication & Authorization
-* Responsive Interfaces
-* Modern Dashboard Systems
-* Browser Extensions
-* SaaS Applications
+### 💻 Development & Engineering
+- 🚀 **Full-Stack Applications:** Scalable, end-to-end web apps
+- 🔌 **REST & GraphQL APIs:** High-throughput backend services
+- 🗄️ **Database Architecture:** Relational & NoSQL schema design
+- 🔐 **Auth & Security:** Modern authentication, RBAC, OAuth
+- 🎨 **Responsive Interfaces:** Pixel-perfect, accessible UI/UX
+- 📊 **Modern Dashboards:** Data-rich administrative panels
+- 🧩 **Browser Extensions & Tools:** Productive developer workflows
+- ☁️ **SaaS Products:** Production-grade cloud platforms
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-### 🧠 Exploring
-
-* Artificial Intelligence
-* Computer Vision
-* AI Automation
-* Data & Analytics
-* Developer Tools
-* Product Engineering
-* 3D / Interactive Web
-* Offline-First Applications
+### 🧠 Exploring & Innovating
+- 🤖 **Artificial Intelligence & LLMs:** Agentic workflows & integrations
+- 👁️ **Computer Vision:** Visual recognition & field capture systems
+- ⚡ **AI Automation:** Intelligent task pipelines & bots
+- 📈 **Data & Analytics:** Real-time metrics & insights
+- 🛠️ **Developer Tooling:** CLI tools & developer productivity
+- ✨ **3D & Interactive Web:** Immersive experiences & micro-interactions
+- 📱 **Offline-First Apps:** Resilient local-first architectures
+- 💡 **Product Engineering:** Rapid prototyping from MVP to scale
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack & Arsenal
+
+<div align="center">
 
 ### Languages
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,php,java,cs,python,html,css" />
-
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cs,html,css" alt="Languages" />
 </p>
 
 ### Frontend
-
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite" />
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite,bootstrap" alt="Frontend" />
 </p>
 
-### Backend & Database
-
+### Backend & Databases
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,postgres,mongodb" />
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb,mysql,redis" alt="Backend & Databases" />
 </p>
 
-### Tools & Platforms
-
+### DevOps, Tools & Design
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" />
-
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman,vercel" alt="Tools & Platforms" />
 </p>
+
+</div>
+
+<br/>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-## 🔭 SiteLens
-
+### 🔭 SiteLens
 **Construction intelligence powered by reality.**
 
-A construction technology concept focused on comparing what was **actually built** against project references using field capture, computer vision and intelligent analysis.
+A construction technology platform comparing **what was actually built** against project references using field capture, computer vision, and reality intelligence.
 
-**Focus**
-
-`Computer Vision` `360° Capture` `ConstructionTech` `AI` `Offline-First`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🤖 AI Automation
-
-Building intelligent tools that connect **AI models + browser automation + real-world workflows**.
-
-Experimenting with multi-model architectures, automation pipelines, conversational systems and intelligent interfaces.
-
-**Focus**
-
-`AI` `Automation` `LLMs` `Browser Extensions`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎓 CampusConnect
-
-A modern platform concept designed around authentication, administration, notifications, analytics and customizable dashboards.
-
-**Focus**
-
-`React` `Node.js` `JWT` `Analytics` `RBAC`
+- 🛠️ **Tech:** Computer Vision, Python, React, Cloud Architecture
+- 🌐 **Status:** Active Development & Research
+- 🔗 **Repo / Concept:** [Explore Project →](https://github.com/ramailo1)
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📚 Library Management
+### ⚡ Smart SaaS / DevTools
+**High-performance automation & productivity suite.**
 
-A complete web application architecture exploring MVC design, borrowing workflows, role management, analytics and administration.
+Modular tools and dashboards built to accelerate developer workflow, automate routine operations, and provide real-time analytics.
 
-**Focus**
-
-`PHP` `MySQL` `MVC` `RBAC` `Dashboard`
+- 🛠️ **Tech:** TypeScript, Next.js, Node.js, TailwindCSS
+- 🌐 **Status:** Live Prototype
+- 🔗 **Repo / Concept:** [Explore Project →](https://github.com/ramailo1)
 
 </td>
 
@@ -197,153 +161,89 @@ A complete web application architecture exploring MVC design, borrowing workflow
 
 </div>
 
----
-
-# 🧩 How I Think
-
-```text
-                ┌─────────────────────┐
-                │       IDEA 💡       │
-                └──────────┬──────────┘
-                           ↓
-                ┌─────────────────────┐
-                │     RESEARCH 🔎     │
-                └──────────┬──────────┘
-                           ↓
-                ┌─────────────────────┐
-                │    ARCHITECTURE 🏗️  │
-                └──────────┬──────────┘
-                           ↓
-                ┌─────────────────────┐
-                │      BUILD ⚙️       │
-                └──────────┬──────────┘
-                           ↓
-                ┌─────────────────────┐
-                │     TEST 🧪         │
-                └──────────┬──────────┘
-                           ↓
-                ┌─────────────────────┐
-                │     SHIP 🚀        │
-                └──────────┬──────────┘
-                           ↓
-                ┌─────────────────────┐
-                │    IMPROVE 🔥       │
-                └─────────────────────┘
-```
+<br/>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics & Live Dashboard
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramailo1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramailo1&layout=compact&hide_border=true&langs_count=8&theme=github_dark" />
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=ramailo1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="Ramailo1 GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramailo1&theme=tokyonight&hide_border=true" width="100%" alt="Ramailo1 Contribution Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramailo1&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
-<br>
+<br/>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramailo1&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+---
+
+## 🐍 Contribution Grid Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramailo1/ramailo1/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramailo1/ramailo1/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ramailo1/ramailo1/output/github-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br/>
+
+---
+
+## 📬 Connect & Collaborate
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ramailo1&theme=github-dark-blue&hide_border=true" />
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 
 </div>
 
+<br/>
+
 ---
 
-# 📈 Contribution Activity
-
+<!-- Animated Footer -->
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramailo1&theme=github-compact&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-# 🐍 My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ramailo1/ramailo1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-
-</div>
-
----
-
-# 🎯 Currently
-
-<div align="center">
-
-### Building → Learning → Experimenting → Shipping
-
-</div>
-
-```text
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│   🔨 Building       ███████████████░░░░  75%      │
-│   🧠 Learning       █████████████░░░░░░  65%      │
-│   🧪 Experimenting  ████████████░░░░░░░  60%      │
-│   🚀 Shipping       ██████████████░░░░░ 70%      │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
-
----
-
-# 🌐 Beyond Code
-
-I'm interested in the entire journey of a product:
-
-**Idea → UX → Architecture → Engineering → AI → Deployment → User Experience**
-
-That's why my projects often combine multiple disciplines instead of staying inside one technical box.
-
----
-
-# 💬 Let's Build Something
-
-Have an interesting idea?
-
-Building something ambitious?
-
-Want to collaborate?
-
-**I'm always interested in interesting problems and ambitious projects.**
-
-<div align="center">
-
-<a href="https://github.com/ramailo1">
-
-<img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=white" />
-
-</a>
-
-<a href="https://www.linkedin.com/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Build things. Break things. Learn. Repeat.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Developer Quote" />
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,28,30,32,34,36&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
