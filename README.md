@@ -74,10 +74,14 @@ const ramailo1 = {
   <br/>
 </div>
 
+<div align="center">
+
 ```ascii
  Profile Context ──► Multi-LLM Engine ──► Tone Adaptation ──► Smart Automation ──► Live Telemetry
  (Bio Extraction)     (Gemini/Claude/GPT)  (Adaptive Personas)   (One-Click / Auto)   (Match Analytics)
 ```
+
+</div>
 
 * **The Problem:** Repetitive manual matching and bland conversational outreach lack personalization, contextual awareness, and engagement analytics.
 * **The Solution:** A Manifest V3 browser extension integrating Claude, Gemini, OpenAI, and local Ollama to analyze profile bios, adapt conversational tones, and execute automated workflows with enterprise-grade XSS security.
@@ -96,6 +100,8 @@ const ramailo1 = {
   </a>
   <br/>
 </div>
+
+<div align="center">
 
 ```ascii
  ┌────────────────────────────────────────────────────────┐
@@ -118,6 +124,8 @@ const ramailo1 = {
  │   └──────────────┘                                     │
  └────────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 * **The Problem:** Autonomous coding agents drift from scope, execute unintended file modifications, and lack verifiable, auditable safety rails.
 * **The Solution:** An MCP server providing a state-machine policy engine that validates agent claims before filesystem mutations and logs cryptographic audit trails.
@@ -149,6 +157,8 @@ const ramailo1 = {
 ## 🧬 System Architecture Pattern
 
 An end-to-end architecture pattern I use when engineering AI-integrated full-stack applications:
+
+<div align="center">
 
 ```ascii
                      ┌──────────────────────────────────────────────┐
@@ -182,6 +192,8 @@ An end-to-end architecture pattern I use when engineering AI-integrated full-sta
                      │    PostgreSQL · Prisma · Redis Cache · S3    │
                      └──────────────────────────────────────────────┘
 ```
+
+</div>
 
 <br/>
 
@@ -219,6 +231,8 @@ An end-to-end architecture pattern I use when engineering AI-integrated full-sta
 
 ## 🧪 Currently Exploring (Radar)
 
+<div align="center">
+
 ```ascii
 ┌────────────────────────────────────────────────────────────┐
 │ 🧠 AGENTIC AI                                              │
@@ -234,6 +248,8 @@ An end-to-end architecture pattern I use when engineering AI-integrated full-sta
 │    Real-Time Canvas · 3D Interfaces · Micro-Motion         │
 └────────────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 <br/>
 
