@@ -69,7 +69,7 @@ const ramailo1 = {
 <div align="center">
   <br/>
   <a href="https://ramailo1.github.io/SpicySwipe/" target="_blank">
-    <img src="./assets/spicyswipe-demo.gif" width="100%" alt="SpicySwipe AI Browser Extension Animated Showcase" style="border-radius: 8px;" />
+    <img src="https://raw.githubusercontent.com/ramailo1/ramailo1/main/assets/spicyswipe-demo.gif?v=2" width="100%" alt="SpicySwipe AI Browser Extension Animated Showcase" style="border-radius: 8px;" />
   </a>
   <br/>
 </div>
@@ -92,7 +92,7 @@ const ramailo1 = {
 <div align="center">
   <br/>
   <a href="https://github.com/ramailo1/mcp-server-driftguard" target="_blank">
-    <img src="./assets/driftguard-demo.gif" width="100%" alt="DriftGuard MCP Governance Animated Simulation" style="border-radius: 8px;" />
+    <img src="https://raw.githubusercontent.com/ramailo1/ramailo1/main/assets/driftguard-demo.gif?v=2" width="100%" alt="DriftGuard MCP Governance Animated Simulation" style="border-radius: 8px;" />
   </a>
   <br/>
 </div>
@@ -132,7 +132,7 @@ const ramailo1 = {
 <div align="center">
   <br/>
   <a href="https://onward90.netlify.app/" target="_blank">
-    <img src="./assets/onward90-demo.gif" width="100%" alt="Onward90 Employee Onboarding SaaS Animated Demo" style="border-radius: 8px;" />
+    <img src="https://raw.githubusercontent.com/ramailo1/ramailo1/main/assets/onward90-demo.gif?v=2" width="100%" alt="Onward90 Employee Onboarding SaaS Animated Demo" style="border-radius: 8px;" />
   </a>
   <br/>
 </div>
