@@ -30,13 +30,13 @@
 ```typescript
 const ramailo1 = {
   role: "Full-Stack Engineer & Product Architect",
-  mindset: ["Understand the Problem", "Design the System", "Build the MVP", "Measure Usage", "Iterate & Ship"],
+  mindset: ["Understand Problem", "Design Architecture", "Build Clean MVP", "Measure Telemetry", "Ship & Iterate"],
   focus: [
-    "Web Application Architecture (Next.js / Node / TypeScript / Postgres)",
-    "Applied AI & Computer Vision Pipelines (Python / OpenCV / Agentic Workflows)",
-    "Developer Tooling & Automation Infrastructure"
+    "Full-Stack Web Ecosystems (Next.js / TypeScript / React / Prisma / PostgreSQL)",
+    "Applied AI, LLM Integration & MCP Tooling (Gemini / Claude / OpenAI / State Machines)",
+    "Autonomous Agent Infrastructure & Browser Extensions"
   ],
-  philosophy: "Don't just write code — build things that people genuinely love to use."
+  philosophy: "Don't just write code — engineer products that solve real problems and feel great to use."
 };
 ```
 
@@ -54,22 +54,22 @@ const ramailo1 = {
 
 ---
 
-## 🚧 Currently Building (Featured Projects)
+## 🚀 Featured Public Projects & Open Source
 
-### 🔭 Hero Project: **SiteLens**
-> **Computer vision infrastructure for construction intelligence.**
+### 🔥 Hero Project: [**SpicySwipe**](https://github.com/ramailo1/SpicySwipe)
+> **AI-powered browser extension combining multi-LLM generation, automated workflows & sentiment analytics.**
 
 ```ascii
- ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐
- │ Field Reality   │  ──►  │ AI Computer     │  ──►  │ BIM / Blueprint │  ──►  │ Anomaly Report  │
- │ Image Capture   │       │ Vision Pipeline │       │ Comparison      │       │ & Insights ⚠️   │
- └─────────────────┘       └─────────────────┘       └─────────────────┘       └─────────────────┘
+ ┌─────────────────┐       ┌──────────────────────┐       ┌──────────────────────┐       ┌─────────────────┐
+ │ Profile Context │  ──►  │ Multi-LLM Engine     │  ──►  │ Conversational Tone  │  ──►  │ Automated Flow  │
+ │ & Bio Extraction│       │ GPT-4 / Gemini/Claude│       │ & Persona Adaptation │       │ & Live Telemetry│
+ └─────────────────┘       └──────────────────────┘       └──────────────────────┘       └─────────────────┘
 ```
 
-* **The Problem:** Construction teams frequently struggle to verify whether physical on-site installations match blueprint specifications before costly errors occur.
-* **The Solution:** SiteLens processes site captures and compares physical reality against BIM/CAD references to detect discrepancies automatically.
-* **Core Engineering:** Python CV pipeline, image processing & spatial alignment, cloud object storage, asynchronous worker queues, React interface.
-* **Status:** `🟢 Active Research & Development` &nbsp;•&nbsp; [**Explore Repository →**](https://github.com/ramailo1)
+* **The Problem:** Repetitive manual matching and bland conversational outreach lack personalization, contextual awareness, and engagement analytics.
+* **The Solution:** A Manifest V3 browser extension integrating Claude, Gemini, and GPT to analyze profile bios, adapt conversational tones, and execute automated workflows in stealth mode.
+* **Stack:** `JavaScript` • `Manifest V3` • `OpenAI API` • `Google Gemini` • `Claude API` • `Analytics`
+* **Links:** [**GitHub Repository →**](https://github.com/ramailo1/SpicySwipe) &nbsp;|&nbsp; [**Live Demo & Docs →**](https://ramailo1.github.io/SpicySwipe/)
 
 <br/>
 
@@ -78,23 +78,25 @@ const ramailo1 = {
 
 <td width="50%" valign="top">
 
-### ⚡ DevSuite
-**Developer productivity & automation platform.**
+### 🚀 [**Onward90**](https://github.com/ramailo1/Onward90)
+**Day-by-day employee onboarding SaaS companion.**
 
-* **Focus:** Modular developer tools eliminating repetitive boilerplate, task execution pipelines, and real-time telemetry.
-* **Stack:** `TypeScript` • `Next.js` • `Node.js` • `PostgreSQL` • `TailwindCSS`
-* **Status:** `🟢 Live Prototype` &nbsp;•&nbsp; [**View Project →**](https://github.com/ramailo1)
+* **The Problem:** New hire ramp-up is fragmented, leading to lost productivity and lack of visibility for managers and HR.
+* **The Solution:** A structured 90-day interactive onboarding workflow providing progress checkpoints, automated syncs, and executive dashboards.
+* **Stack:** `Next.js` • `TypeScript` • `Prisma ORM` • `Auth.js` • `PostgreSQL` • `TailwindCSS`
+* **Links:** [**GitHub Repo →**](https://github.com/ramailo1/Onward90) &nbsp;|&nbsp; [**Live SaaS App →**](https://onward90.vercel.app/)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 Practical AI Systems
-**Autonomous agentic workflows & local-first AI tools.**
+### 🛡️ [**mcp-server-driftguard**](https://github.com/ramailo1/mcp-server-driftguard)
+**A Firewall for Intelligence: AI Coding Agent Governance.**
 
-* **Focus:** RAG pipelines, vision-language integrations, intelligent CLI assistants, and privacy-first local models.
-* **Stack:** `Python` • `FastAPI` • `Vector DBs` • `LangChain` • `Redis`
-* **Status:** `🧪 Active Exploration` &nbsp;•&nbsp; [**View Project →**](https://github.com/ramailo1)
+* **The Problem:** Autonomous coding agents drift from scope, execute unintended file modifications, and lack verifiable audit trails.
+* **The Solution:** An MCP server enforcing strict state machines, scope claims, permission checkpoints, and cryptographic audit logs.
+* **Stack:** `TypeScript` • `Model Context Protocol (MCP)` • `Node.js` • `State Machines`
+* **Links:** [**GitHub Repo →**](https://github.com/ramailo1/mcp-server-driftguard)
 
 </td>
 
@@ -107,14 +109,14 @@ const ramailo1 = {
 
 ## 🧬 System Architecture Pattern
 
-A typical end-to-end architecture pattern I use when building scalable web applications:
+An end-to-end architecture pattern I use when engineering AI-integrated full-stack applications:
 
 ```ascii
                      ┌──────────────────────────────────────────────┐
                      │          Responsive Client Interface         │
-                     │          Next.js · React · TypeScript        │
+                     │    Next.js · React · TypeScript · PWA/Ext    │
                      └──────────────────────┬───────────────────────┘
-                                            │  (HTTPS / WebSocket)
+                                            │  (HTTPS / WebSocket / RPC)
                                             ▼
                      ┌──────────────────────────────────────────────┐
                      │             API Gateway & Routing            │
@@ -124,15 +126,15 @@ A typical end-to-end architecture pattern I use when building scalable web appli
                     ┌───────────────────────┼───────────────────────┐
                     ▼                       ▼                       ▼
        ┌────────────────────────┐  ┌─────────────────┐  ┌───────────────────────┐
-       │   AI & Vision Engine   │  │ Core REST APIs  │  │ Background Workers    │
-       │   Python · OpenCV · LLM│  │ Node.js/Express │  │ Queues & Cron Tasks   │
+       │   AI & LLM Services    │  │ Core REST/tRPC  │  │ Background Workers    │
+       │   MCP · Gemini · Claude│  │ Node.js/Express │  │ Queues & Cron Tasks   │
        └────────────┬───────────┘  └────────┬────────┘  └───────────┬───────────┘
                     │                       │                       │
                     └───────────────────────┼───────────────────────┘
                                             ▼
                      ┌──────────────────────────────────────────────┐
                      │              Data & Storage Layer            │
-                     │    PostgreSQL · Redis Cache · Object Storage │
+                     │    PostgreSQL · Prisma · Redis Cache · S3    │
                      └──────────────────────────────────────────────┘
 ```
 
@@ -149,19 +151,19 @@ A typical end-to-end architecture pattern I use when building scalable web appli
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,postgres,git" alt="Primary Stack" />
 </p>
 
-### 🧠 AI, Vision & Data
+### 🧠 AI, Tooling & Extensions
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,redis,mongodb" alt="AI & Data" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,redis,mongodb,postman" alt="AI & Data" />
 </p>
 
-### ☁️ Infrastructure & Tooling
+### ☁️ Infrastructure & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,github,linux,vscode,figma,postman,vercel" alt="Infra & Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,github,linux,vscode,figma,vercel" alt="Infra & Tools" />
 </p>
 
 ### 🧰 Also Familiar With
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,php,vue,mysql,bootstrap" alt="Familiar Technologies" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cs,php,vue,mysql" alt="Familiar Technologies" />
 </p>
 
 </div>
@@ -174,7 +176,7 @@ A typical end-to-end architecture pattern I use when building scalable web appli
 
 ```ascii
 ┌────────────────────────────────────────────────────────┐
-│ 🧠 Autonomous AI Agents & Tool-Calling     ████████░░  │
+│ 🧠 Autonomous AI Agents & MCP Tool-Calling ████████░░  │
 │ 👁️ Vision-Language Models & Spatial AI     ████████░░  │
 │ ⚡ Event-Driven Microservices & Queues      ███████░░░  │
 │ 🌐 WebGPU & Real-time Canvas 3D            ██████░░░░  │
@@ -225,7 +227,7 @@ A typical end-to-end architecture pattern I use when building scalable web appli
 
 Have an interesting product idea, technical challenge, or looking to collaborate?
 
-* 🚀 **Building:** AI-powered products, developer infrastructure, computer vision systems, or scalable web platforms.
+* 🚀 **Building:** AI-powered products, developer infrastructure, MCP tooling, or full-stack web platforms.
 * 💬 **Reach Out:**
 
 <div align="center">
