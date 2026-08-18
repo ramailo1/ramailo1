@@ -12,13 +12,20 @@
 
 <br/>
 
-<!-- 📊 Live Badges -->
+<!-- 💻 System Status Terminal Panel -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramailo1&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views"/>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ramailo1?tab=followers"><img src="https://img.shields.io/github/followers/ramailo1?style=for-the-badge&logo=github&color=0b0f19&labelColor=1e1b4b" alt="GitHub Followers" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ramailo1"><img src="https://img.shields.io/github/stars/ramailo1?style=for-the-badge&logo=github&color=0b0f19&labelColor=1e1b4b" alt="GitHub Stars" /></a>
+
+```ascii
+╭────────────────────────────────────────────────────────╮
+│  RAMAILO1 // SYSTEM PROFILE                            │
+│                                                        │
+│  STATUS   🟢 ACTIVE & BUILDING                         │
+│  DOMAIN   AI INFRASTRUCTURE · FULL STACK · AGENTS      │
+│  MODE     PRODUCT ARCHITECTURE & ENGINEERING           │
+│  CURRENT  SpicySwipe · DriftGuard · Onward90           │
+╰────────────────────────────────────────────────────────╯
+```
+
 </div>
 
 <br/>
@@ -29,12 +36,12 @@
 
 ```typescript
 const ramailo1 = {
-  role: "Full-Stack Engineer & Product Architect",
+  role: "Full-Stack Engineer · Product Architect",
   mindset: ["Understand Problem", "Design Architecture", "Build Clean MVP", "Measure Telemetry", "Ship & Iterate"],
   focus: [
     "Full-Stack Web Ecosystems (Next.js / TypeScript / React / Prisma / PostgreSQL)",
-    "Applied AI, LLM Integration & MCP Tooling (Gemini / Claude / OpenAI / State Machines)",
-    "Autonomous Agent Infrastructure & Browser Extensions"
+    "Applied AI, LLM Tooling & MCP Governance (Gemini / Claude / OpenAI / State Machines)",
+    "Autonomous Agent Infrastructure & Browser Automation"
   ],
   philosophy: "Don't just write code — engineer products that solve real problems and feel great to use."
 };
@@ -54,10 +61,10 @@ const ramailo1 = {
 
 ---
 
-## 🚀 Featured Public Projects & Open Source
+## 🚀 Featured Projects & Open Source
 
-### 🔥 Hero Project: [**SpicySwipe**](https://github.com/ramailo1/SpicySwipe)
-> **AI-powered browser extension combining multi-LLM generation, automated workflows & sentiment analytics.**
+### 🔥 [**SpicySwipe**](https://github.com/ramailo1/SpicySwipe) — AI Browser Extension
+> **AI-powered browser extension combining multi-LLM generation, contextual personalization, automated workflows & conversation analytics.**
 
 ```ascii
  ┌─────────────────┐       ┌──────────────────────┐       ┌──────────────────────┐       ┌─────────────────┐
@@ -67,41 +74,51 @@ const ramailo1 = {
 ```
 
 * **The Problem:** Repetitive manual matching and bland conversational outreach lack personalization, contextual awareness, and engagement analytics.
-* **The Solution:** A Manifest V3 browser extension integrating Claude, Gemini, and GPT to analyze profile bios, adapt conversational tones, and execute automated workflows in stealth mode.
+* **The Solution:** A Manifest V3 browser extension integrating Claude, Gemini, and GPT to analyze profile bios, adapt conversational tones, and execute automated workflows.
 * **Stack:** `JavaScript` • `Manifest V3` • `OpenAI API` • `Google Gemini` • `Claude API` • `Analytics`
 * **Links:** [**GitHub Repository →**](https://github.com/ramailo1/SpicySwipe) &nbsp;|&nbsp; [**Live Demo & Docs →**](https://ramailo1.github.io/SpicySwipe/)
 
 <br/>
 
-<table>
-<tr>
+### 🛡️ [**mcp-server-driftguard**](https://github.com/ramailo1/mcp-server-driftguard) — AI Agent Governance
+> **A Firewall for Intelligence — MCP server enforcing finite state machines, scope verification & tamper-proof audit trails.**
 
-<td width="50%" valign="top">
+```ascii
+ ┌────────────────────────────────────────────────────────┐
+ │ 🛡️ DRIFTGUARD // AI AGENT GOVERNANCE                   │
+ │                                                        │
+ │   AI AGENT (LLM Runtime)                               │
+ │        │                                               │
+ │        ▼                                               │
+ │   ┌──────────────┐                                     │
+ │   │ Scope Claim  │                                     │
+ │   └──────┬───────┘                                     │
+ │          ▼                                             │
+ │   ┌──────────────┐                                     │
+ │   │ Permission   │─── ❌ ──► Unauthorized Mutation Blocked│
+ │   │ Checkpoint   │                                     │
+ │   └──────┬───────┘                                     │
+ │          ▼                                             │
+ │   ┌──────────────┐                                     │
+ │   │ Audit Trail  │─── ✔️ ──► Cryptographic State Log    │
+ │   └──────────────┘                                     │
+ └────────────────────────────────────────────────────────┘
+```
 
-### 🚀 [**Onward90**](https://github.com/ramailo1/Onward90)
-**Day-by-day employee onboarding SaaS companion.**
-
-* **The Problem:** New hire ramp-up is fragmented, leading to lost productivity and lack of visibility for managers and HR.
-* **The Solution:** A structured 90-day interactive onboarding workflow providing progress checkpoints, automated syncs, and executive dashboards.
-* **Stack:** `Next.js` • `TypeScript` • `Prisma ORM` • `Auth.js` • `PostgreSQL` • `TailwindCSS`
-* **Links:** [**GitHub Repo →**](https://github.com/ramailo1/Onward90) &nbsp;|&nbsp; [**Live SaaS App →**](https://onward90.vercel.app/)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛡️ [**mcp-server-driftguard**](https://github.com/ramailo1/mcp-server-driftguard)
-**A Firewall for Intelligence: AI Coding Agent Governance.**
-
-* **The Problem:** Autonomous coding agents drift from scope, execute unintended file modifications, and lack verifiable audit trails.
-* **The Solution:** An MCP server enforcing strict state machines, scope claims, permission checkpoints, and cryptographic audit logs.
+* **The Problem:** Autonomous coding agents drift from scope, execute unintended file modifications, and lack verifiable, auditable safety rails.
+* **The Solution:** An MCP server providing a state-machine policy engine that validates agent claims before filesystem mutations and logs cryptographic audit trails.
 * **Stack:** `TypeScript` • `Model Context Protocol (MCP)` • `Node.js` • `State Machines`
-* **Links:** [**GitHub Repo →**](https://github.com/ramailo1/mcp-server-driftguard)
+* **Links:** [**GitHub Repository →**](https://github.com/ramailo1/mcp-server-driftguard)
 
-</td>
+<br/>
 
-</tr>
-</table>
+### 🚀 [**Onward90**](https://github.com/ramailo1/Onward90) — Employee Onboarding SaaS
+> **Day-by-day employee onboarding companion to accelerate ramp-up time and provide HR full visibility.**
+
+* **The Problem:** New hire ramp-up is fragmented, leading to lost productivity and lack of structured visibility for managers and HR teams.
+* **The Solution:** A 90-day interactive onboarding companion with scheduled milestones, manager checkpoints, and full organizational reporting.
+* **Stack:** `Next.js` • `TypeScript` • `Prisma ORM` • `Auth.js` • `PostgreSQL` • `TailwindCSS`
+* **Links:** [**GitHub Repository →**](https://github.com/ramailo1/Onward90) &nbsp;|&nbsp; [**Live SaaS App →**](https://onward90.vercel.app/)
 
 <br/>
 
@@ -126,9 +143,15 @@ An end-to-end architecture pattern I use when engineering AI-integrated full-sta
                     ┌───────────────────────┼───────────────────────┐
                     ▼                       ▼                       ▼
        ┌────────────────────────┐  ┌─────────────────┐  ┌───────────────────────┐
-       │   AI & LLM Services    │  │ Core REST/tRPC  │  │ Background Workers    │
-       │   MCP · Gemini · Claude│  │ Node.js/Express │  │ Queues & Cron Tasks   │
+       │   AI & Agent Runtime   │  │ Core REST/tRPC  │  │ Background Workers    │
+       │   LLMs · Orchestration │  │ Node.js/Express │  │ Queues & Async Tasks  │
        └────────────┬───────────┘  └────────┬────────┘  └───────────┬───────────┘
+                    │                       │                       │
+                    ▼                       │                       │
+       ┌────────────────────────┐           │                       │
+       │    MCP Tool Protocol   │           │                       │
+       │ Tools · Policy · Guard │           │                       │
+       └────────────┬───────────┘           │                       │
                     │                       │                       │
                     └───────────────────────┼───────────────────────┘
                                             ▼
@@ -153,12 +176,12 @@ An end-to-end architecture pattern I use when engineering AI-integrated full-sta
 
 ### 🧠 AI, Tooling & Extensions
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,redis,mongodb,postman" alt="AI & Data" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,redis,mongodb" alt="AI & Data" />
 </p>
 
 ### ☁️ Infrastructure & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,github,linux,vscode,figma,vercel" alt="Infra & Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,github,linux,vscode,figma,postman,vercel" alt="Infra & Tools" />
 </p>
 
 ### 🧰 Also Familiar With
@@ -172,16 +195,22 @@ An end-to-end architecture pattern I use when engineering AI-integrated full-sta
 
 ---
 
-## 🧪 Currently Exploring
+## 🧪 Currently Exploring (Radar)
 
 ```ascii
-┌────────────────────────────────────────────────────────┐
-│ 🧠 Autonomous AI Agents & MCP Tool-Calling ████████░░  │
-│ 👁️ Vision-Language Models & Spatial AI     ████████░░  │
-│ ⚡ Event-Driven Microservices & Queues      ███████░░░  │
-│ 🌐 WebGPU & Real-time Canvas 3D            ██████░░░░  │
-│ 📱 Local-First Resilient Sync Architectures██████░░░░  │
-└────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────┐
+│ 🧠 AGENTIC AI                                              │
+│    MCP · Tool Calling · State Machines · Evaluation        │
+│                                                            │
+│ 👁️ SPATIAL & COMPUTER VISION                               │
+│    Vision-Language Models · Spatial AI · Verification      │
+│                                                            │
+│ ⚡ DISTRIBUTED SYSTEMS                                     │
+│    Queues · Asynchronous Workers · Event Architecture      │
+│                                                            │
+│ 🌐 WEBGPU & INTERACTIVE WEB                                │
+│    Real-Time Canvas · 3D Interfaces · Micro-Motion         │
+└────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
@@ -232,20 +261,16 @@ Have an interesting product idea, technical challenge, or looking to collaborate
 
 <div align="center">
 
+  <a href="https://github.com/ramailo1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  &nbsp;&nbsp;
   <a href="mailto:contact.ramailo1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 
 </div>
